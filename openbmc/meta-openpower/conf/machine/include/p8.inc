@@ -1,1 +1,0 @@
-OBMC_MACHINE_FEATURES += 'i2c-occ'
